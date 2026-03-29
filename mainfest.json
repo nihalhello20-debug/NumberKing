@@ -1,1 +1,18 @@
-
+{
+  "name": "Number King",
+  "short_name": "Number King",
+  "description": "Number Game Prediction System",
+  "start_url": "./NumberKing_Final.html",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#f59e0b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/emoji/512/crown-emoji.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
